@@ -1,0 +1,21 @@
+.login{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+}
+
+.form__label{
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.form__button{
+  margin-top: 10px;
+  cursor: pointer;
+}
